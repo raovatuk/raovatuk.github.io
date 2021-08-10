@@ -1,25 +1,25 @@
-title:            HMFAYSAL V2
-tagline:          Life without Pants!
-description:      An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
+title:            Phòng trọ Quận 7
+tagline:          Phòng trọ quận 7
+description:      Cho thuê phòng trọ giá rẻ Quận 7 có 2 phòng ngủ.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://raovatuk.github.io/raovat
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           phongtroquan7.com
   avatar:         bio-photo.jpg
-  bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
-  email:          hmfaysal@gmail.com
+  bio:            "Phòng trọ Quận 7 giá rẻ, giwof tự do, không chung chủ tại phường Tân Quy và phường Tân Hưng, Quận 7. Điện thoại 0918222944."
+  email:          phtroq7@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
+  # To register, visit http://phongtroquan7.com
+  twitter:        phongthuequan7
+  facebook:       phongthuequan7
+  github:         phongthuequan7
   linkedin:       
   instagram:      
   lastfm:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
+  hmfaysalsocial: phongthuequan7
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
