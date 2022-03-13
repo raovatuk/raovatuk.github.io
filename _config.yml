@@ -37,12 +37,12 @@ links:
   - title: Giới thiệu
     url: /about/
   - title: Tin
-    url: https://raovatuk.github.io/
+    url: /tin/
     external: false
   - title: Setup
     url: /theme-setup/
   - title: Nhà Quận 7
-    url: /technical-details/
+    url: /nhaquan7/
   - title: Phòng trọ Quận 7
     url: https://raovatuk.github.io/tphcm/
     external: true
