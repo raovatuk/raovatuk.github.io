@@ -11,7 +11,7 @@ owner:
   bio:            "Phòng trọ Quận 7 giá rẻ, giờ tự do, không chung chủ tại phường Tân Quy và phường Tân Hưng, Quận 7. Điện thoại 0918222944."
   email:          phtroq7@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # To register, visit http://phongtroquan7.com
+  # To register, visit https://phongtroxinh.com
   twitter:        phongthuequan7
   facebook:       phongthuequan7
   github:         phongthuequan7
@@ -37,13 +37,13 @@ links:
   - title: Giới thiệu
     url: /about/
   - title: Tin
-    url: /tin/
+    url: https://tingoogle.com/
   - title: Setup
     url: /theme-setup/
   - title: T-Details
     url: /technical-details/
   - title: Phòng trọ Quận 7
-    url: https://raovatuk.github.io/
+    url: https://raovatuk.github.io/tphcm/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
